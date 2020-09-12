@@ -3,6 +3,7 @@
     <img alt="Bedrock" src="https://cdn.roots.io/app/uploads/logo-bedrock.svg" height="100">
   </a>
 </p>
+
 ## Banco de dados 
 - Está na root (wp.sql)
 
