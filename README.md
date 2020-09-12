@@ -4,7 +4,12 @@
   </a>
 </p>
 
+## Funcionamento
+
+<img src="https://i.ibb.co/sHGFBNH/ezgif-4-8cdbda90b894.gif">
+
 ## Banco de dados 
+
 - Está na root (wp.sql)
 
 ## URL Para Acessar 
