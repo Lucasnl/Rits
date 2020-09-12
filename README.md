@@ -4,13 +4,25 @@
   </a>
 </p>
 
+## URL Para Acessar 
+http://localhost/Rits/Web/
 
-## Community
 
-Keep track of development and community news.
+## Configuração .env
 
-- Participate on the [Roots Discourse](https://discourse.roots.io/)
-- Follow [@rootswp on Twitter](https://twitter.com/rootswp)
-- Read and subscribe to the [Roots Blog](https://roots.io/blog/)
-- Subscribe to the [Roots Newsletter](https://roots.io/subscribe/)
-- Listen to the [Roots Radio podcast](https://roots.io/podcast/)
+DB_NAME='wp'
+DB_USER='root'
+DB_PASSWORD=''
+
+# Optional variables
+# DB_HOST='localhost'
+# DB_PREFIX='wp_'
+
+WP_ENV='development'
+WP_HOME='http://localhost/Rits/Web/'
+WP_SITEURL="${WP_HOME}/wp"
+WP_DEBUG_LOG=/path/to/debug.log
+
+
+
+
