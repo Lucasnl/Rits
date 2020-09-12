@@ -10,13 +10,13 @@ http://localhost/Rits/Web/
 
 ## Configuração .env
 
-DB_NAME='wp'
-DB_USER='root'
-DB_PASSWORD=''
-WP_ENV='development'
-WP_HOME='http://localhost/Rits/Web/'
-WP_SITEURL="${WP_HOME}/wp"
-WP_DEBUG_LOG=/path/to/debug.log
+- DB_NAME='wp'
+- DB_USER='root'
+- DB_PASSWORD=''
+- WP_ENV='development'
+- WP_HOME='http://localhost/Rits/Web/'
+- WP_SITEURL="${WP_HOME}/wp"
+- WP_DEBUG_LOG=/path/to/debug.log
 
 
 
