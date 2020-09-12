@@ -13,11 +13,6 @@ http://localhost/Rits/Web/
 DB_NAME='wp'
 DB_USER='root'
 DB_PASSWORD=''
-
-# Optional variables
-# DB_HOST='localhost'
-# DB_PREFIX='wp_'
-
 WP_ENV='development'
 WP_HOME='http://localhost/Rits/Web/'
 WP_SITEURL="${WP_HOME}/wp"
