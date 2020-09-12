@@ -6,7 +6,7 @@
 
 ## Funcionamento
 
-<img src="https://i.ibb.co/pyKXXzp/ezgif-4-c91e52031f95.gif" />
+<img src="https://i.ibb.co/q5g11sw/ezgif-4-c91e52031f95.gif" />
 
 ## Banco de dados 
 
