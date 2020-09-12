@@ -17,7 +17,8 @@ http://localhost/Rits/Web/
 
 
 ## Configuração .env
-
+----- Renomeie o arquivo .env.example para .env
+----- Dentro do .env apenas substituia tudo pelo código abaixo
 - DB_NAME='wp'
 - DB_USER='root'
 - DB_PASSWORD=''
