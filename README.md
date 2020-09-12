@@ -6,7 +6,7 @@
 
 ## Funcionamento
 
-<a href="https://ibb.co/HdsrJbd"><img src="https://i.ibb.co/FVMBPyV/ezgif-4-8cdbda90b894.gif" alt="ezgif-4-8cdbda90b894" border="0"></a>
+<a href="https://ibb.co/HdsrJbd"><img src="https://i.ibb.co/sHGFBNH/ezgif-4-8cdbda90b894.gif" alt="ezgif-4-8cdbda90b894" border="0"></a>
 ## Banco de dados 
 
 - Está na root (wp.sql)
