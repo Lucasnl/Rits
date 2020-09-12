@@ -6,9 +6,8 @@
 
 ## Funcionamento
 
-<img src="https://s8.gifyu.com/images/ezgif-4-8cdbda90b894.gif">
 
-<a href="https://gifyu.com/image/4Lul"><img src="https://s8.gifyu.com/images/ezgif-4-8cdbda90b894.gif" alt="ezgif-4-8cdbda90b894.gif" border="0" /></a>
+<img src="https://i.ibb.co/sHGFBNH/ezgif-4-8cdbda90b894.gif" />
 
 ## Banco de dados 
 
